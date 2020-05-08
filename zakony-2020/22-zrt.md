@@ -1,0 +1,8 @@
+# О внесении изменения в статью 12 Закона Республики Татарстан "О Конституционном суде Республики Татарстан"
+Document type: Закон
+Number: 22-ЗРТ
+Date signed: 2020-05-07
+Publication date: 2020-05-08
+Publication number: 1600202005080003
+Signing body: Республика Татарстан
+Official publication page: http://publication.pravo.gov.ru/Document/View/1600202005080003
