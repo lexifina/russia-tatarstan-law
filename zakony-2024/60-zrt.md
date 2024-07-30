@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Республики Татарстан "Об организации проведения капитального ремонта общего имущества в многоквартирных домах в Республике Татарстан"
+Document type: Закон
+Number: 60-ЗРТ
+Date signed: 2024-07-26
+Publication date: 2024-07-30
+Publication number: 1600202407300008
+Signing body: Республика Татарстан
+Official publication page: http://publication.pravo.gov.ru/Document/View/1600202407300008
