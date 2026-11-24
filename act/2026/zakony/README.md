@@ -1,6 +1,6 @@
 # Republic of Tatarstan: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 15 versions, from 2026-02-24 (latest in force: 2026-10-22) · <http://publication.pravo.gov.ru/documents/block/region16>
+Законы 2026 · 16 versions, from 2026-02-24 (latest in force: 2026-11-03) · <http://publication.pravo.gov.ru/documents/block/region16>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -60,6 +60,16 @@
 | Закон № 62-ЗРТ | [62-zrt.md](62-zrt.md) | 1 | 2026-10-09 |
 | Закон № 63-ЗРТ | [63-zrt.md](63-zrt.md) | 1 | 2026-10-13 |
 | Закон № 64-ЗРТ | [64-zrt.md](64-zrt.md) | 1 | 2026-10-22 |
+| Закон № 65-ЗРТ | [65-zrt.md](65-zrt.md) | 1 | 2026-11-03 |
+| Закон № 66-ЗРТ | [66-zrt.md](66-zrt.md) | 1 | 2026-11-03 |
+| Закон № 67-ЗРТ | [67-zrt.md](67-zrt.md) | 1 | 2026-11-03 |
+| Закон № 68-ЗРТ | [68-zrt.md](68-zrt.md) | 1 | 2026-11-03 |
+| Закон № 69-ЗРТ | [69-zrt.md](69-zrt.md) | 1 | 2026-11-03 |
 | Закон № 7-ЗРТ | [7-zrt.md](7-zrt.md) | 0 |  |
+| Закон № 70-ЗРТ | [70-zrt.md](70-zrt.md) | 1 | 2026-11-03 |
+| Закон № 71-ЗРТ | [71-zrt.md](71-zrt.md) | 1 | 2026-11-03 |
+| Закон № 72-ЗРТ | [72-zrt.md](72-zrt.md) | 1 | 2026-11-03 |
+| Закон № 73-ЗРТ | [73-zrt.md](73-zrt.md) | 1 | 2026-11-03 |
+| Закон № 74-ЗРТ | [74-zrt.md](74-zrt.md) | 1 | 2026-11-03 |
 | Закон № 8-ЗРТ | [8-zrt.md](8-zrt.md) | 1 | 2026-02-26 |
 | Закон № 9-ЗРТ | [9-zrt.md](9-zrt.md) | 1 | 2026-02-26 |
