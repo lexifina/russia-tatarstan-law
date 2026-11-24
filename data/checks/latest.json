@@ -1,0 +1,102 @@
+{
+ "generated": "2026-11-24T14:57:08Z",
+ "latest": {
+  "pravo-tatarstan|russia/tatarstan/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1250,
+    "current": 1240,
+    "gone": 0,
+    "held": 1240,
+    "newest_in_repo": "2026-10-22",
+    "pending": 10,
+    "repo": 1240,
+    "source_in_scope": 1250
+   },
+   "check_id": "ru-pravo-tatarstan-20261124T145536Z",
+   "commits": {
+    "count": 2,
+    "from": "0c302e9251c9e054a48532738e71f6a66b64c052",
+    "to": "fb2d0c18188c1029566278fde02ec3d320a99782"
+   },
+   "corpus": "russia/tatarstan/acts",
+   "error": null,
+   "finished": "2026-11-24T14:57:07Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region16: 1250 law-type documents listed (every page read); 1240 held here; 10 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "1600202611030001",
+     "1600202611030002",
+     "1600202611030003",
+     "1600202611030004",
+     "1600202611030005",
+     "1600202611030006",
+     "1600202611030007",
+     "1600202611030008",
+     "1600202611030009",
+     "1600202611030010"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 10,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "1600202611030001",
+     "1600202611030002",
+     "1600202611030003",
+     "1600202611030004",
+     "1600202611030005",
+     "1600202611030006",
+     "1600202611030007",
+     "1600202611030008",
+     "1600202611030009",
+     "1600202611030010"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1250 law-type documents in block region16; newest published 2026-11-03",
+   "source": "pravo-tatarstan",
+   "started": "2026-11-24T14:55:36Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 310,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}

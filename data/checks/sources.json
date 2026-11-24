@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-tatarstan",
+   "kind": "legislation",
+   "name": {
+    "en": "Republic of Tatarstan: Official Internet Portal of Legal Information (region16)",
+    "ru": "Republic of Tatarstan: Официальный интернет-портал правовой информации (region16)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region16",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/tatarstan/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-tatarstan-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
