@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:20:13Z",
+ "generated": "2026-11-27T06:12:09Z",
  "latest": {
   "pravo-tatarstan|russia/tatarstan/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1250,
     "source_in_scope": 1250
    },
-   "check_id": "ru-pravo-tatarstan-20261126T060230Z",
+   "check_id": "ru-pravo-tatarstan-20261127T055622Z",
    "commits": null,
    "corpus": "russia/tatarstan/acts",
    "error": null,
-   "finished": "2026-11-26T06:03:06Z",
+   "finished": "2026-11-27T05:56:55Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region16: 1250 law-type documents listed (every page read); 1250 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1250 law-type documents in block region16; newest published 2026-11-03",
    "source": "pravo-tatarstan",
-   "started": "2026-11-26T06:02:30Z",
+   "started": "2026-11-27T05:56:22Z",
    "unexplained": 0,
    "update": {
     "parts": []
