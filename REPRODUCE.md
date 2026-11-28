@@ -1,6 +1,6 @@
 # How this repository was made (Republic of Tatarstan)
 
-This file is written by the build on 2026-11-24, the day the source data was retrieved.
+This file is written by the build on 2026-11-28, the day the source data was retrieved.
 
 ## Sources
 
@@ -36,23 +36,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `zakony-2023` | Republic of Tatarstan: catalogue of the laws published in 2023 (facts only, no law text) | 31 | 2023-01-06 to 2023-12-26 |
 | `zakony-2024` | Republic of Tatarstan: catalogue of the laws published in 2024 (facts only, no law text) | 22 | 2024-02-29 to 2024-12-27 |
 | `zakony-2025` | Republic of Tatarstan: catalogue of the laws published in 2025 (facts only, no law text) | 21 | 2025-03-05 to 2025-12-30 |
-| `zakony-2026` | Republic of Tatarstan: catalogue of the laws published in 2026 (facts only, no law text) | 16 | 2026-02-24 to 2026-11-03 |
+| `zakony-2026` | Republic of Tatarstan: catalogue of the laws published in 2026 (facts only, no law text) | 17 | 2026-02-24 to 2026-11-27 |
 
-The build made 310 commits:
+The build made 311 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 12 | baseline texts where the record starts |
-| 298 | named laws, court decisions and treaties |
+| 299 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-24.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 298 laws in the record.
-- 608 tags.
+- 299 laws in the record.
+- 610 tags.
 
 ## Dates
 
@@ -64,7 +64,7 @@ When a law gives no date of its own, the default rule applies: Catalogue entries
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6ae164566de9fab49498533200e278890f3c7943306c9ea5776ac18fd171fec9` (1291887 bytes).
+- Corpus: sha256 `da7f3edd9aee74bb132a1cf498b35775c273d656ae02afe10e0d6cf675bcdcba` (1360389 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
